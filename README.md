@@ -81,9 +81,7 @@ Try the interactive web app powered by [Streamlit](https://algerian-forest-fire-
 
 ## 📈 Example Usage
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/demo-ui.gif" alt="Demo UI" width="600"/>
-</p>
+
 *(Replace with your streamlit app screenshot or gif)*
 
 ---
