@@ -1,5 +1,5 @@
-numpy
-pandas
-matplotlib
-seaborn
+streamlit
 scikit-learn
+pandas
+numpy
+matplotlib
