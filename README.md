@@ -46,7 +46,7 @@ A quick overview of the repository structure for easy navigation:
 
 ## 🖥️ Demo
 
-Try the interactive web app powered by [Streamlit](https://streamlit.io/) for real-time predictions!  
+Try the interactive web app powered by [Streamlit](https://algerian-forest-fire-predection.streamlit.app/) for real-time predictions!  
 *(Link placeholder: Deploy on Streamlit Cloud or similar platform)*
 
 ---
